@@ -168,7 +168,7 @@
     .img-div {
       height: 100vh;
     }
-    .image {
+    .image1 {
       display: none;
   
     }
@@ -176,7 +176,7 @@
     .image2 {
       margin-right: auto;
       margin-left: auto;
-     
+        height: 100%;
     }
   }
   
